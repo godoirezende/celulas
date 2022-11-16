@@ -6,8 +6,7 @@
 
 - ##### Organelas e suas funções:
 
-1. Plastos negrito
+1. Plastos 
 Existem leucoplastos, sem cor, que fazem reserva de amido e cromoplastos coloridos, que possuem pigmentos. Um plasto pode se transformar no outro.
-
 Os cloroplastos são as organelas responsáveis pela realização da fotossíntese. Elas contém o pigmento clorofila, que lhes confere a cor verde e absorve a luz solar, permitindo que o processo ocorra.
 
