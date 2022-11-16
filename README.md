@@ -13,9 +13,9 @@ A célula vegetal, é eucariótica, ou seja, possui um núcleo determinado por m
 1. Plastos: 
 São organelas com DNA próprio e formadas por um duas membranas unitárias que contêm no seu interior uma matriz ou estroma, que abrigam os tilacóides (membranas suculiformes).
 Os plastos basicamente atuam na fotossíntese e na produção de aminoácidos e ácidos graxos. Eles são divididos em três grupos:
-- Cloroplastos: são pigmentados e possuem carotenoides e clorofila, ambos atuam na fotossíntese. Eles realizam um movimento citoplasmático, em busca da melhor posição para captura de luz; 
-- Cromoplastos: também possuem pigmentos, geralmente com coloração amarelada, alaranjada ou avermelhada. Eles conferem cor, por exemplo, às pétalas das flores e aos frutos; 
-- Leucoplastos: não possuem coloração e são incolores. Sua função é essencialmente armazenar substâncias como proteínas, amidos e lipídios, podendo ser nomeados de oleoplastos, proteoplastos, amiloplastos, etc.
+  - Cloroplastos: são pigmentados e possuem carotenoides e clorofila, ambos atuam na fotossíntese. Eles realizam um movimento citoplasmático, em busca da melhor posição  para captura de luz; 
+  - Cromoplastos: também possuem pigmentos, geralmente com coloração amarelada, alaranjada ou avermelhada. Eles conferem cor, por exemplo, às pétalas das flores e aos   frutos; 
+  - Leucoplastos: não possuem coloração e são incolores. Sua função é essencialmente armazenar substâncias como proteínas, amidos e lipídios, podendo ser nomeados de  oleoplastos, proteoplastos, amiloplastos, etc.
 
 2. Parede celular:
 Estrutura presente externamente à membrana plasmática que protege a célula contra danos mecânicos, contra a ação de alguns patógenos e mantém seu formato. Pode ser encontrada também em alguns fungos e protistas. Sua constituição é variável nos diversos organismos, mas, na célula vegetal, é formada principalmente por celulose, proteínas e outros polissacarídeos.
