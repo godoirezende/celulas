@@ -67,6 +67,6 @@ Referências:
 - Célula vegetal. Brasil Escola, 2022.    Disponível em: https://brasilescola.uol.com.br/biologia/celula-vegetal.htm. Acesso em: 16 nov. 2022.
 - Célula vegetal. Toda materia, 2022.     Disponível em: https://www.todamateria.com.br/celula-vegetal/. Acesso em: 16 nov. 2022.
 - Citoesqueleto. Brasil Escola, 2022.     Disponível em: https://brasilescola.uol.com.br/biologia/citoesqueleto.htm#:~:text=O%20citoesqueleto%20%C3%A9%20uma%20rede,actina%20e%20os%20filamentos%20intermedi%C3%A1rios.
-. Acesso em: 16 nov. 2022.
+Acesso em: 16 nov. 2022.
 
 - Criador: Pedro H.G.R
