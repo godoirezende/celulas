@@ -4,7 +4,7 @@
 
 ![Célula vegetal](https://user-images.githubusercontent.com/96310308/202107441-50a4ac9a-b71a-429d-8da3-6d8a587fe01a.png)
 
-- Organelas e suas funções:
+- ##### Organelas e suas funções:
 
 1. Plastos negrito
 Existem leucoplastos, sem cor, que fazem reserva de amido e cromoplastos coloridos, que possuem pigmentos. Um plasto pode se transformar no outro.
