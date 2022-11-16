@@ -44,8 +44,7 @@ Os vacúolos em células meristemáticas apresentam-se numerosos e pequenos. À 
 
 
 
-- Referências:
-Célula vegetal. Educamais Brasil, 2022. Disponível em: https://www.educamaisbrasil.com.br/enem/biologia/celula-vegetal. Acesso em: 16 nov. 2022.
+- Referências:                                                                                                                                                    Célula vegetal. Educamais Brasil, 2022. Disponível em: https://www.educamaisbrasil.com.br/enem/biologia/celula-vegetal. Acesso em: 16 nov. 2022.
 Célula vegetal. Brasil Escola, 2022.    Disponível em: https://brasilescola.uol.com.br/biologia/celula-vegetal.htm. Acesso em: 16 nov. 2022.
 Célula vegetal. Toda materia, 2022.     Disponível em: https://www.todamateria.com.br/celula-vegetal/. Acesso em: 16 nov. 2022.
 
