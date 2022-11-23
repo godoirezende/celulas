@@ -67,24 +67,19 @@ Os vacúolos em células meristemáticas apresentam-se numerosos e pequenos. À 
 ![complexogolginosso](https://user-images.githubusercontent.com/96310308/203572000-c6a6a849-92a8-413f-9e37-8e1e2a23472f.png)
 ![golgiinternet](https://user-images.githubusercontent.com/96310308/203572363-e0fcf983-23a6-466b-87fc-0bb59934b570.png)
 
-
-4. Lisossomos: Os lisossomos são envolvidos apenas pela membrana e no seu interior há enzimas digestivas. Sua função é digerir moléculas orgânicas como lipídios, proteínas e ácidos nucleicos.
-![lisossomo](https://user-images.githubusercontent.com/96310308/203571777-3414e6d2-11f9-44c2-839d-6bc73a21b120.png)
-
-
-5. Peroxissomos: Os peroxissomos são pequenas organelas que contêm no seu interior enzimas oxidases. A principal função é oxidar a matéria-prima da respiração celular, cujas reações produzem o peróxido de hidrogênio e por isso o nome da organela.
+4. Peroxissomos: Os peroxissomos são pequenas organelas que contêm no seu interior enzimas oxidases. A principal função é oxidar a matéria-prima da respiração celular, cujas reações produzem o peróxido de hidrogênio e por isso o nome da organela.
 ![Perixissomosnosso](https://user-images.githubusercontent.com/96310308/203567452-6da8bf74-8dbb-44ac-bf85-0378a16b3b26.jpeg)
 
 ![Perixissomosinter](https://user-images.githubusercontent.com/96310308/203566376-580dad53-8847-47e0-a35e-35cfebea25af.jpeg)
 
 
-6. Ribossomos: Atuam na produção de proteínas e na regeneração da célula.
+5. Ribossomos: Atuam na produção de proteínas e na regeneração da célula.
 ![Ribossomosinter](https://user-images.githubusercontent.com/96310308/203567589-8518d89b-fc0c-4d60-9448-dc96bf243a6a.jpeg)
 
 ![Ribossomosnosso](https://user-images.githubusercontent.com/96310308/203568112-3d819831-0a32-41bb-ae80-3238fd5adfd3.jpeg)
 
 
-7. Citoesqueleto: É dividido em três tipos de estruturas
+6. Citoesqueleto: É dividido em três tipos de estruturas
 
 ![microtubulosnosso](https://user-images.githubusercontent.com/96310308/203568284-26f4bfd8-9b38-4374-96d4-4491aab09b5c.jpeg)
 .
@@ -96,7 +91,7 @@ Os vacúolos em células meristemáticas apresentam-se numerosos e pequenos. À 
 - Os filamentos intermediários possuem um tamanho intermediário, são maiores que os microfilamentos, mas menores que os microtúbulos. Eles apresentam-se como filamentos superenrolados em cabos. Esses filamentos não são encontrados em todos os tipos celulares, pois existem apenas em células de alguns animais. Eles também relacionam-se com a manutenção da forma da célula e ancoragem de organelas.
 
 
-8.Núcleo da célula:  Núcleo é uma estrutura presente em todas as células eucarióticas. Ele é responsável por controlar todas as atividades celulares e armazenar informação genética. O núcleo é uma estrutura importante encontrada nas células eucarióticas e ausente nas células procarióticas.
+7.Núcleo da célula:  Núcleo é uma estrutura presente em todas as células eucarióticas. Ele é responsável por controlar todas as atividades celulares e armazenar informação genética. O núcleo é uma estrutura importante encontrada nas células eucarióticas e ausente nas células procarióticas.
 ![nucleonosso](https://user-images.githubusercontent.com/96310308/203570829-db907b43-f5ca-4fb7-ab32-514d8fa50801.png)
 
 ![nucleointernet](https://user-images.githubusercontent.com/96310308/203571052-ecbdb452-c81a-4365-bac9-ae8cf983b888.png)
